@@ -1,0 +1,34 @@
+.login {
+    cursor: pointer;
+}
+.log-in{
+  color: black;
+  -webkit-text-fill-color: rgb(197, 29, 68); /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.fa-sign-in{
+    color: black;
+    -webkit-text-fill-color: rgb(29, 197, 105); /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);   
+}
+
+.button-for-login{
+    display: flex; flex-direction: row;
+    background: var(--color-blue);
+    padding: 8px;
+    gap: 5px; 
+    font-size: 1rem;
+  color: inherit;
+  border: none;
+  border-radius: var(--border-radius);
+
+}
+.google{
+    background-color: white;
+    border-radius: 100%; 
+    margin-top: 10px;
+    width: 40px; height: 40px;
+}

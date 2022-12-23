@@ -1,0 +1,22 @@
+.chat-room-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.chat-room-list li {
+    height: 100px;
+    background: var(--color-gray);
+    flex: 1 1 calc(50% - 4px);
+    border-radius: var(--border-radius);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.choices{
+    color: black;
+  -webkit-text-fill-color: rgb(197, 29, 68); /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+}
