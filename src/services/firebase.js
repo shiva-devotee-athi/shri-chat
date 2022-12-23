@@ -12,12 +12,12 @@ import {
 } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCET0T5AGkl6TsIO6XzfaFx5n3HHtun5Pw",
-    authDomain: "chat-room-a2d41.firebaseapp.com",
-    projectId: "chat-room-a2d41",
-    storageBucket: "chat-room-a2d41.appspot.com",
-    messagingSenderId: "577065245212",
-    appId: "1:577065245212:web:32cd0e632d508e203e9dd9"
+  apiKey: "AIzaSyCET0T5AGkl6TsIO6XzfaFx5n3HHtun5Pw",
+  authDomain: "chat-room-a2d41.firebaseapp.com",
+  projectId: "chat-room-a2d41",
+  storageBucket: "chat-room-a2d41.appspot.com",
+  messagingSenderId: "577065245212",
+  appId: "1:577065245212:web:8a3b21bd7fb424a13e9dd9"    
 };
 
 const app = initializeApp(firebaseConfig);
