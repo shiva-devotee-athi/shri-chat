@@ -46,9 +46,9 @@ This project is licensed under MIT.
 This README file is structured for clarity, professionalism, and usability. Let me know if you want to tweak any details! 🚀
 
 ### **Contact**
-Your Name/Handle: shiva-devotee-athi
-Email: vijayathiraj99@gmail.com
-Portfolio: https://shiva-devotee-athi.github.io/vijayathiraj/
+- Your Name/Handle: shiva-devotee-athi
+- Email: vijayathiraj99@gmail.com
+- Portfolio: https://shiva-devotee-athi.github.io/vijayathiraj/
 
 ## Installation
 
