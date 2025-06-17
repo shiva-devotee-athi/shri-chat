@@ -33,6 +33,23 @@ A real-time chat application designed for seamless communication, featuring mode
 ### **Database**
 - PostgreSQL
 
+## Usage
+- Run both frontend and backend services.
+- Open the chat interface and start messaging in real-time.
+
+## Contributing
+Feel free to raise issues and submit pull requests! 🚀
+
+## License
+This project is licensed under MIT.
+
+This README file is structured for clarity, professionalism, and usability. Let me know if you want to tweak any details! 🚀
+
+### **Contact**
+Your Name/Handle: shiva-devotee-athi
+Email: vijayathiraj99@gmail.com
+Portfolio: https://shiva-devotee-athi.github.io/vijayathiraj/
+
 ## Installation
 
 ### **Clone the repository**
@@ -42,24 +59,23 @@ cd chat-app
 
 
 ## Frontend Setup
-```sh
 cd frontend
 npm install
 npm start
 
-```sh
+
+## Environment Variables
+### **Create a .env file and add:**
 VITE_SERVER_URL=your_backend_connection_url
 REACT_APP_SERVER_URL=your_backend_connection_url
 
 
 ## Backend Setup
-```sh
 cd backend
 npm install
 npm run dev
 
 ## Environment Variables
-```sh
 ### **Create a .env file and add:**
 REDIS_URL=your_redis_connection
 JWT_SECRET=your_jwt_secret
@@ -72,18 +88,3 @@ MONITOR_MAIL_ID=your_admin_id
 MONITOR_MOBILE=your_admin_mobile
 MONITOR_PASSWORD=your_admin_password
 
-
-## Usage
-- Run both frontend and backend services.
-- Open the chat interface and start messaging in real-time.
-## Contributing
-Feel free to raise issues and submit pull requests! 🚀
-## License
-This project is licensed under MIT.
-
-This README file is structured for clarity, professionalism, and usability. Let me know if you want to tweak any details! 🚀
-
-📞 Contact
-Your Name/Handle: shiva-devotee-athi
-Email: vijayathiraj99@gmail.com
-Portfolio: https://shiva-devotee-athi.github.io/vijayathiraj/
